@@ -1,0 +1,22 @@
+# Core Jac and LLM Dependencies
+jaclang>=0.6.0
+google-generativeai>=0.3.0
+
+# Code Parsing and Analysis
+tree-sitter>=0.20.0
+tree-sitter-python>=0.20.0
+
+# Repository Management
+gitpython>=3.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.28.0
+pydantic>=2.0.0
+
+# For frontend (optional)
+streamlit>=1.28.0
+
+# Additional utilities
+pyyaml>=6.0
+markdown>=3.4.0

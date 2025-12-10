@@ -1,0 +1,6 @@
+jaseci
+byllm
+gitpython
+tree_sitter
+python-dotenv
+rich
